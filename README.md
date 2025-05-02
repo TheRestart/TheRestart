@@ -1,7 +1,9 @@
 ## Hi there 👋
-
-<!--
 **TheRestart/TheRestart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+한국인입니다. 
+계발을 하고 싶어서 개발하는 것이 아니라 원하는 기능을 구현하기 위해 개발을 시작한 사람.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
