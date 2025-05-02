@@ -4,9 +4,15 @@
 한국인입니다. 
 계발을 하고 싶어서 개발하는 것이 아니라 원하는 기능을 구현하기 위해 개발을 시작한 사람.
 
+지금은 ESP32_S3_BOX3를 이용하고 있습니다. 
 
+/*
 Here are some ideas to get you started:
+*/
+아, c,cpp가 아니라 html이군요
 
+<!-- HTML comment -->
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
