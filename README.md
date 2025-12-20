@@ -19,6 +19,8 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+
 ```typescript
 const developer = {
     name: "Kim Han Byeol",
@@ -42,9 +44,13 @@ const developer = {
 };
 ```
 
-<div align="center">
+</div>
+
+---
 
 ## 🛠️ Tech Stack | 기술 스택
+
+<div align="center">
 
 ### 💻 Languages & Frameworks | 언어 & 프레임워크
 <p>
@@ -114,13 +120,13 @@ ESP32, ARM, RISC-V                   ████████████░░�
 C/C++ Firmware Development           ████████████░░░░░░░░░░░░░░░░░░ 40%
 ```
 
-<div align="center">
+</div>
 
 ---
 
-<div align="center">
-
 ## 📊 GitHub Statistics | 깃허브 통계
+
+<div align="center">
 
 <!-- GitHub Stats with Animation -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRestart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=FF006E"/>
@@ -136,13 +142,14 @@ C/C++ Firmware Development           ████████████░░�
 
 ---
 
+## 🚀 Key Projects & Achievements | 주요 프로젝트 & 성과
+
 <div align="center">
 
-## 🚀 Key Projects & Achievements | 주요 프로젝트 & 성과
+### 🧠 Brain Tumor Diagnosis CDSS
 
 </div>
 
-### 🧠 Brain Tumor Diagnosis CDSS
 ```yaml
 Description: 뇌종양 진단을 위한 멀티모달 딥러닝 시스템
 Tech Stack:
@@ -157,22 +164,34 @@ Highlights:
   - 팀 커뮤니케이션 브리지 역할 수행
 ```
 
+<div align="center">
+
 ### 🔧 ESP32-S3-BOX3 Firmware Development
+
+</div>
+
 ```yaml
 Description: C 언어 기반 임베디드 펌웨어 개발 (졸업작품)
 Tech Stack: C, ESP32-S3-BOX3, Embedded Systems
 Focus: 하드웨어 제어 및 최적화
 ```
 
+<div align="center">
+
 ### 📊 Key Certifications | 주요 자격증
-- 🏆 **데이터분석준전문가 (ADsP)** - 2025.11
-- ✈️ **초경량비행장치 조종자** - 2022.11
+
+</div>
+
+<p align="center">
+🏆 <strong>데이터분석준전문가 (ADsP)</strong> - 2025.11<br/>
+✈️ <strong>초경량비행장치 조종자</strong> - 2022.11
+</p>
 
 ---
 
-<div align="center">
-
 ## 💡 Core Philosophy
+
+<div align="center">
 
 <table>
 <tr>
@@ -210,9 +229,9 @@ AI 도구를 활용한<br/>
 
 ---
 
-<div align="center">
-
 ## 🌱 Currently Learning | 현재 학습 중
+
+<div align="center">
 
 <table>
 <tr>
@@ -241,9 +260,9 @@ AI 도구를 활용한<br/>
 
 ---
 
-<div align="center">
-
 ## 💬 Fun Facts
+
+<div align="center">
 
 ```python
 class MyLife:
@@ -271,9 +290,9 @@ print(f"Coding with {me.get_coding_style()['philosophy']} 🚀")
 
 ---
 
-<div align="center">
-
 ## 🔗 Connect With Me | 연락하기
+
+<div align="center">
 
 <!-- Social Links -->
 <a href="https://github.com/TheRestart">
@@ -310,13 +329,13 @@ print(f"Coding with {me.get_coding_style()['philosophy']} 🚀")
 
 ---
 
-### 💼 Open to Opportunities | 채용 기회 환영
+## 💼 Open to Opportunities | 채용 기회 환영
 
 **의료 AI, 백엔드 개발, 융합 프로젝트에 관심 있으시다면 언제든 연락주세요!**
 
 *I'm actively seeking opportunities in Medical AI, Backend Development, and Cross-domain Projects.*
 
-<br/>
+<br/><br/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=TheRestart&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
