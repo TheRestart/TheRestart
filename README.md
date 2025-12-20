@@ -136,7 +136,11 @@ C/C++ Firmware Development           ████████████░░�
 
 ---
 
+<div align="center">
+
 ## 🚀 Key Projects & Achievements | 주요 프로젝트 & 성과
+
+</div>
 
 ### 🧠 Brain Tumor Diagnosis CDSS
 ```yaml
