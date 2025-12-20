@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Han%20Byeol%20Kim&fontSize=70&fontColor=fff&fontAlignY=35&desc=AI-Friendly%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Byul&fontSize=70&fontColor=fff&fontAlignY=32&desc=AI-Friendly%20Engineer&descSize=20&descAlignY=58" width="100%"/>
 
 <!-- Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%A7%AC+Biomedical+Engineering+%C3%97+%F0%9F%92%BE+System+Semiconductor;%F0%9F%A4%96+Building+Medical+AI+with+Vibe+Coding;%F0%9F%92%A1+Bridging+Tech+%26+Healthcare" alt="Typing SVG" /></a>
